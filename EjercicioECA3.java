@@ -37,7 +37,8 @@ public class EjercicioECA3 {
                 System.out.println("Su número tiene 2 cifras");
             }else{
                 System.out.println("Su número tiene 1 cifra");
-            }}
+            }
+            }
         }else{
             System.out.println("Error");
         }
